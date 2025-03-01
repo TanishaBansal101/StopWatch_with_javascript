@@ -1,1 +1,1 @@
-# StopWatch_with_javascript
+# Stopwatch with JavaScript
